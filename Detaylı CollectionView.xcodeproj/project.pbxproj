@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		DE0C0F92280C2AA700873B6C /* FilmHucre.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE0C0F91280C2AA700873B6C /* FilmHucre.swift */; };
+		DE0C0F94280C2C8000873B6C /* Filmler.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE0C0F93280C2C8000873B6C /* Filmler.swift */; };
 		DE5E011B280C16A9001EB806 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE5E011A280C16A9001EB806 /* AppDelegate.swift */; };
 		DE5E011D280C16A9001EB806 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE5E011C280C16A9001EB806 /* SceneDelegate.swift */; };
 		DE5E011F280C16A9001EB806 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = DE5E011E280C16A9001EB806 /* ViewController.swift */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		DE0C0F91280C2AA700873B6C /* FilmHucre.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FilmHucre.swift; sourceTree = "<group>"; };
+		DE0C0F93280C2C8000873B6C /* Filmler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Filmler.swift; sourceTree = "<group>"; };
 		DE5E0117280C16A9001EB806 /* Detaylı CollectionView.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Detaylı CollectionView.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		DE5E011A280C16A9001EB806 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		DE5E011C280C16A9001EB806 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -60,9 +64,11 @@
 				DE5E011C280C16A9001EB806 /* SceneDelegate.swift */,
 				DE5E011E280C16A9001EB806 /* ViewController.swift */,
 				DE5E0120280C16A9001EB806 /* Main.storyboard */,
+				DE0C0F91280C2AA700873B6C /* FilmHucre.swift */,
 				DE5E0123280C16AC001EB806 /* Assets.xcassets */,
 				DE5E0125280C16AC001EB806 /* LaunchScreen.storyboard */,
 				DE5E0128280C16AC001EB806 /* Info.plist */,
+				DE0C0F93280C2C8000873B6C /* Filmler.swift */,
 			);
 			path = "Detaylı CollectionView";
 			sourceTree = "<group>";
@@ -139,7 +145,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				DE5E011F280C16A9001EB806 /* ViewController.swift in Sources */,
+				DE0C0F92280C2AA700873B6C /* FilmHucre.swift in Sources */,
 				DE5E011B280C16A9001EB806 /* AppDelegate.swift in Sources */,
+				DE0C0F94280C2C8000873B6C /* Filmler.swift in Sources */,
 				DE5E011D280C16A9001EB806 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
